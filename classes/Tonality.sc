@@ -17,6 +17,7 @@ Tonality{
 		switch (romNum)
 		{"I" }   { gradNum = 0;}
 		{"II"}   { gradNum = 1;}
+		{"iim"}   { gradNum = 1;}  //< !!
 		{"III"}   { gradNum = 2;}
 		{"IV"}   { gradNum = 3;}
 		{"V"}   { gradNum = 4;}
@@ -24,6 +25,7 @@ Tonality{
 		{"VII"}   { gradNum = 6;}
 		{"i" }   { gradNum = 0;}
 		{"ii"}   { gradNum = 1;}
+		{"iid"}   { gradNum = 1;}  //< !!
 		{"iii"}   { gradNum = 2;}
 		{"iv"}   { gradNum = 3;}
 		{"v"}   { gradNum = 4;}
